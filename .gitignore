@@ -4,3 +4,7 @@ api_docs/.DS_Store
 db/chroma_500/.DS_Store
 db/chroma_800/.DS_Store
 db/.DS_Store
+.DS_Store
+.env
+api_docs/aiRecognize.md
+api_docs/aiRecognize.txt
