@@ -8,3 +8,4 @@ db/.DS_Store
 .env
 api_docs/aiRecognize.md
 api_docs/aiRecognize.txt
+.DS_Store
